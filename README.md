@@ -8,7 +8,7 @@
 
 |        Категорія        | Мова програмування |                          Посилання на репозиторій                           |        Категорія        | Мова програмування |                  Посилання на репозиторій                   |
 |:-----------------------:|:------------------:|:---------------------------------------------------------------------------:|:-----------------------:|:------------------:|:-----------------------------------------------------------:|
-| Синхронний REST сервіс  |       Python       |     [Див. тут](https://github.com/kshypachov/FastAPI_trembita_service)      | Синхронний SOAP сервіс  |       Python       | [Див. тут](https://github.com/kshypachov/soap_sync_service) |
+| Синхронний REST сервіс  |       Python       |     [Див. тут](https://github.com/MadCat-88/Trembita_Py_R_SyncSrv)      | Синхронний SOAP сервіс  |       Python       | [Див. тут](https://github.com/kshypachov/soap_sync_service) |
 | Синхронний REST клієнт  |       Python       |     [Див. тут](https://github.com/kshypachov/web-client_trembita_sync)      | Синхронний SOAP клієнт  |       Python       |                        [Див. тут]()                         |
 | Асинхронний REST сервіс |       Python       |                                [Див. тут]()                                 | Асинхронний SOAP сервіс |       Python       |                        [Див. тут]()                         |
 | Синхронний REST сервіс  |      Node.JS       | [Див. тут](https://github.com/kshypachov/rest-sync-service-node-express-js) | Синхронний SOAP сервіс  |      Node.JS       |                        [Див. тут]()                         |
